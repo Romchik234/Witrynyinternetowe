@@ -1,0 +1,38 @@
+<!DOCTYPE html> 
+<html>
+	<head>
+	 <meta charset="UTF8"/>
+	 <title>Stroana 3 popom</title>
+		
+		<style>td,th,table
+			{border:solid 2px blue;border-collapse:collapse}
+		
+		#colorwa	
+		{
+		background-color: purple;
+		color: red;
+		}
+		
+		</style>
+	
+	</head>
+	
+	<body>
+		<table>
+			<tr>
+				<td>1.1</td>
+				<td>2.2</td>
+				<td rowspan="3">3.1</td>
+			</tr>
+			<tr>
+				<td id="colorwa">4.4</td>
+				<td>5.5</td>
+			</tr>
+			<tr>
+				<td colspan="2">7.7</td>
+			</tr>
+		</table>
+	</body>
+	
+</html>
+<!--colspan(---);rowspan(pion|)-->

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8"/>
+		<title> Program qb </title>
+		
+		
+		<style>
+		table,th,td
+		{border:solid 2px black;border-collapse:collapse}
+		</style>
+		
+	</head>
+	
+	<body>
+		<!--1-->
+		<div style="background-color:silver;width:90%;border:solid 5px #25E6B9">
+			<h1> <i> To jest nagłówek</i> </h1>
+		</div>
+	    <!--2-->
+		<div style="background-color:#1eb02d;width:45%;float:left;border:dotted 3px #1e62b0">
+			<p> <b>Menu strony tutaj</b> <p>
+		</div>
+		
+		<!--3-->
+		<div style="background-color:#1e62b0;float:left;width:45%;border:solid 3px #5a5c5e">
+			<p> Treśćpodobnej strony znajduję się tutaj</p>
+		</div>
+		<!--4-->
+		
+		
+		<br />
+		<br />
+		<br />
+		
+		
+		<div style="background-color:#0f171f;width:90%;border:dotted 5px #435c75">
+			<p> zxc.super.ultra.storna.maga.pro </p>
+		</div>
+		<!--5-->
+		<div style="background-color:#083766;float:left;width:50%;border:dotted 4px #3a5978">
+			<p> <b> <i>Of course</i> <b> </p>
+		</div>
+		 <br /> 
+		 <br />
+		 <br />
+		 
+			<ul>
+				<li>Europa</li>
+						<ul> 
+						<li> Francja</li>
+						<li>Grecja</li>
+						</ul>
+						
+						<ul>
+						<ol><li>Cos tam   </li>
+							<li>Cos tam   </li></ol>
+						</ul>
+			</ul>			
+		
+				<ul><li>Azja</li></ul>
+					<ul><ol> ok </ol> </ul>
+			
+				<ul><li>Afryka</li></ul>
+			</ul>
+			
+			<br />
+					<table>
+						<tr>
+							<th rowspan=3>one</th>
+							<th>two</th>
+						</tr>
+						<tr>
+							<td>number 3</td>
+							<td>4 cyfra</td>
+						</tr>
+						<tr>
+							<td>5</td>							
+							<td>6 </td>
+						</tr>
+					</table>
+		</html>
